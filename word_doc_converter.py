@@ -1,10 +1,6 @@
 import os
 import zipfile
-<<<<<<< HEAD
-import shutil ####
-=======
 import shutil
->>>>>>> parent of 5da83fb (Revert "initial commit")
 
 # Convert minimal HTML to Word XML (fixing the tag structure)
 def html_to_word_xml(html):
