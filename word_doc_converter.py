@@ -74,7 +74,12 @@ def create_docx_from_html(html, output_path='output.docx'):
 
     # Clean up the temporary directory
     shutil.rmtree('temp_docx')
+
+
     print("hello")
+    print("added")
+
+
     print(f"✅ Created: {output_path}")
 
 # === Run this script using the actual HTML file ===
